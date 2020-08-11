@@ -8,9 +8,6 @@ if answer == "yes":
     print()
        
         
-
-
-    
     answer = input("you begin walking down a dark trail in nantucket and come to a intersection, do you go right or left?: [right or left]")
     print()
 
